@@ -5,6 +5,7 @@ https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/ass
 # Checking my Assignment
 https://nojahoon.github.io/coursera-test/module2-solution/index.html
 
+# Using Media Query
 @media(min-width: 767px){ //if device is under 76px, 
   //some css works        //then css works in this area
 }
