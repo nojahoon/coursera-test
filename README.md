@@ -2,6 +2,8 @@
 Coursera Assignment link
 https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
 
+# Checking my Assignment
+https://nojahoon.github.io/coursera-test/module2-solution/index.html
 
 @media(min-width: 767px){ //if device is under 76px, 
   //some css works        //then css works in this area
