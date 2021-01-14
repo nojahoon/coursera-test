@@ -19,7 +19,7 @@ It is general that uses 'and' operator with media queries.
 
 <pre>
 <code>
- @media(min-width: 768px) and (max-width: 991px){ //if device: 768~991
+ @media(min-width: 768px) and (max-width: 991px){ //if device: 768~991px
   //some css works                                //then css works in this area
  }
 </code>
