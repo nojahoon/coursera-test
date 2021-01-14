@@ -6,12 +6,21 @@ https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/ass
 https://nojahoon.github.io/coursera-test/module2-solution/index.html
 
 # Using Media Query
+
+<pre>
+<code>
 @media(min-width: 767px){ //if device is under 76px, 
   //some css works        //then css works in this area
 }
+</code>
+</pre>
 
 It is general that uses 'and' operator with media queries.
- 
+
+<pre>
+<code>
  @media(min-width: 768px) and (max-width: 991px){ //if device: 768~991
   //some css works                                //then css works in this area
  }
+</code>
+</pre>
