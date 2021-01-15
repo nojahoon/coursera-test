@@ -1,87 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="css/cssFile.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<style>
-    *{
-        box-sizing:border-box;
-        margin:0;
-        padding:0;
-    }
-
-    h1{ /*Our Menu*/
-        text-align:center;
-    }
-    
-    div.box{   /*박스 기본 설정*/
-        background-color:gray;
-        border:3px solid black;
-        float:left;    /*div 속성들이 왼쪽으로 붙도록함 */
-        overflow:auto; /*글자가 overflow시 스크롤이 내부적으로 자동으로 생김.*/
-        margin-right:20px;
-        margin-left:20px;
-        height:230px;
-    }
-    div.inner_box{  /*오른쪽 위 작은박스*/
-        border:1px solid black;
-        background-color:pink;
-        width:30%;
-        font-size:1.2em;
-        text-align:center;
-        float:right;
-        font-weight:bold;
-    }
-    p{
-        clear:both; /*해당태그에 왼쪽과 오른쪽에 모두 float된 요소가 위치하지 않고 다음행에 오도록함.*/
-        padding:15px;
-        font-weight:bold;
-    }
-    #chicken{
-        background-color:pink;
-    }
-    #Beef{
-        background-color:rgb(202, 56, 80);
-        color:white;
-    }
-    #Sushi{
-        background-color:rgb(189, 190, 72);
-    }
-
-    /* Desktop Device */
-
-    @media(min-width: 992px){
-        section{
-            width:33%;
-            float:left;
-            margin-bottom:30px;
-            position:relative;
-            
-        }
-    }
-    /*Tablet Device*/
-    @media(min-width: 768px) and (max-width: 991px){
-        section{
-            width:50%;
-            float:left;
-            margin-bottom:30px;
-            position:relative;
-        }
-    }
-
-    /*Smartphone Device*/
-    @media(max-width: 767px){
-        section{
-            width:100%;
-            float:left;
-            margin-bottom:30px;
-            position:relative;
-        }
-    }
-
-</style>
 <body>
     <h1> Our Menu</h1>
     <br><br>
