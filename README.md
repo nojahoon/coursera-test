@@ -16,7 +16,7 @@ Assignment 2 : https://nojahoon.github.io/coursera-test/module2-solution/index.h
 </code>
 </pre>
 
-It is general that uses 'and' operator with media queries.
+It is general that using 'and' operator with media queries.
 
 <pre>
 <code>
