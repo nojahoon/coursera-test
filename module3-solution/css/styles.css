@@ -5,9 +5,13 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Nanum Gothic", sans-serif;
+}
+
 h1 {
   text-align: left;
-  color: black;
+  color: rgb(70, 41, 15);
   margin: auto;
   margin-top: -2px;
 }
@@ -31,22 +35,24 @@ h1 {
 .eachmenu {
   position: relative;
   height: auto;
-  background-color: gray;
+  background-color: rgb(47, 218, 146);
   float: left;
   border: 1px solid black;
   margin-bottom: 20px;
 }
-h3 {
+.container .eachmenu h3 {
   text-align: center;
   font-size: 15px solid black;
+  color: yellow;
 }
 
 /* End Header */
 
 /* Start Content */
-h2 {
+.container h2 {
   text-align: center;
   margin-bottom: 10px;
+  color: skyblue;
 }
 /* START MD */
 @media (min-width: 992px) {
@@ -55,7 +61,7 @@ h2 {
 
 /* START SM */
 @media (min-width: 768px) and (max-width: 991px) {
-  section {
+  .right-space {
     margin-right: 2%;
   }
 }
