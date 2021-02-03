@@ -63,9 +63,6 @@ h1 {
 
 /* START SM */
 @media (min-width: 768px) and (max-width: 991px) {
-  .eachmenu {
-    margin-right: 2%;
-  }
 }
 /* End SM */
 
