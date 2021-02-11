@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Using the XMLHttpRequest object</h2>
+
+<button type="button" onclick="loading()">Change Content</button>
+
+<p id="demo"></p>
+
+<script>
+function loading() {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'data/name.txt', true);
+
+    // If specified, responseType must be empty string or "text"
+    xhr.responseType = 'text';
+
+    xhr.onreadystatechange = function () {
+        // if (xhr.readyState === xhr.DONE) {
+            if (xhr.status === 200) {
+                console.log("State: "+xhr.readyState);
+                console.log(xhr.response);
+                console.log(xhr.responseText);
+            }
+        // }
+    };
+    
+    xhr.send(null);
+}
+
+
+</script>
+
+</body>
+</html>
