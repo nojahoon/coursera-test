@@ -1,5 +1,10 @@
 # Coursera: HTML, CSS and Javascript for Web Developers
-- Coursera Assignment link - 
+ ![lecture](https://user-images.githubusercontent.com/59651691/107854060-c79e0280-6e5c-11eb-9112-038e97662cc9.JPG)
+
+# Certificate
+![coursera이수](https://user-images.githubusercontent.com/59651691/107854003-6d9d3d00-6e5c-11eb-97ff-d5d48b2e6966.JPG)
+
+# Coursera Assignment link 
 
 Assignment 2 : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md
 
