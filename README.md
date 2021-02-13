@@ -7,7 +7,9 @@ Assignment 3 : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/
 
 Assignment 4 : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
 
-# Viewing My Clone Coding
+Assignment 5 : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-5.md
+
+# Viewing My Clone Coding (not updated)
 
 Module 3 : https://nojahoon.github.io/coursera-test/module3-solution/practice/index.html
 
@@ -18,6 +20,8 @@ Assignment 2 : https://nojahoon.github.io/coursera-test/module2-solution/index.h
 Assignment 3 : https://nojahoon.github.io/coursera-test/module3-solution/index.html
 
 Assignment 4 : https://nojahoon.github.io/coursera-test/module4-solution/index.html (Open Chrome Developer Tool and Click the consonle tab)
+
+Assignment 5 : https://nojahoon.github.io/coursera-test/module5-solution/index.html
 
 # Using Media Query
 
